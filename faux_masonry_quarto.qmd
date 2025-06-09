@@ -1,0 +1,46 @@
+---
+title: "Photography"
+page-layout: full
+---
+
+```{=html}
+<style>
+.masonry {
+  column-count: 3;
+  column-gap: 1em;
+}
+
+.masonry img {
+  width: 100%;
+  margin-bottom: 1em;
+  border-radius: 6px;
+  display: block;
+}
+</style>
+```
+
+::: masonry
+<img src="photos/1.jpg" alt="Photo 1"/>
+<img src="photos/2.jpg" alt="Photo 2"/>
+<img src="photos/3.jpg" alt="Photo 3"/>
+<img src="photos/4.jpg" alt="Photo 4"/>
+<img src="photos/5.jpg" alt="Photo 5"/>
+<img src="photos/6.jpg" alt="Photo 6"/>
+<img src="photos/7.jpg" alt="Photo 7"/>
+<img src="photos/8.jpg" alt="Photo 8"/>
+<img src="photos/9.jpg" alt="Photo 9"/>
+<img src="photos/10.jpg" alt="Photo 10"/>
+<img src="photos/11.jpg" alt="Photo 11"/>
+<img src="photos/12.jpg" alt="Photo 12"/>
+<img src="photos/13.jpg" alt="Photo 13"/>
+<img src="photos/14.jpg" alt="Photo 14"/>
+<img src="photos/15.jpg" alt="Photo 15"/>
+<img src="photos/16.jpg" alt="Photo 16"/>
+<img src="photos/17.jpg" alt="Photo 17"/>
+<img src="photos/18.jpg" alt="Photo 18"/>
+<img src="photos/19.jpg" alt="Photo 19"/>
+<img src="photos/20.jpg" alt="Photo 20"/>
+<img src="photos/21.jpg" alt="Photo 21"/>
+:::
+
+
