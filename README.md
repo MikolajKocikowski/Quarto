@@ -13,6 +13,6 @@ This repo contains simple Quarto `.qmd` scripts for experimenting with website p
 ### Preview
 
 <p float="left">
-  <img src="css.jpg" width="45%" alt="CSS column-count layout"/>
-  <img src="js.jpg" width="45%" alt="JS round-robin layout"/>
+  <img src="css.png" width="45%" alt="CSS column-count layout"/>
+  <img src="js.png" width="45%" alt="JS round-robin layout"/>
 </p>
