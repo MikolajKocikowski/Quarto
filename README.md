@@ -12,8 +12,8 @@ This repo contains simple Quarto `.qmd` scripts for experimenting with website p
 
 ### Preview – CSS Approach
 
-<img src="css.png" width="300" alt="CSS layout">
+<img src="assets/css.png" width="300" alt="CSS layout">
 
 ### Preview – JS Approach
 
-<img src="js.png" width="300" alt="JS layout">
+<img src="assets/js.png" width="300" alt="JS layout">
