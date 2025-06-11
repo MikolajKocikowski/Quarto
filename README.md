@@ -16,3 +16,10 @@ This repo contains simple Quarto `.qmd` scripts for experimenting with website p
   <img src="css.png" width="45%" alt="CSS column-count layout"/>
   <img src="js.png" width="45%" alt="JS round-robin layout"/>
 </p>
+
+### Preview
+
+<div style="display: flex; gap: 1em; align-items: flex-start;">
+  <img src="css.png" width="45%" alt="CSS column-count layout"/>
+  <img src="js.png" width="45%" alt="JS round-robin layout"/>
+</div>
