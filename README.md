@@ -1,6 +1,6 @@
 ## Quarto Gallery Layout Examples
 
-This repo contains simple Quarto `.qmd` scripts for experimenting with website photo gallery layouts - mainly focused on mimicking masonry-style layouts.
+This repo contains simple Quarto `.qmd` scripts for experimenting with a website photo gallery - mainly focused on mimicking masonry-style layouts.
 
 ### Files
 
@@ -8,11 +8,11 @@ This repo contains simple Quarto `.qmd` scripts for experimenting with website p
   A CSS approach using `column-count`, simple and clean but stacks images top-to-bottom, column by column.
 
 - `round-robin-photo-masonry-js.qmd`  
-  Uses GPT-aided JavaScript that assigns images in round-robin order across columns, giving me ontrol over which image appears in each visual row.
+  Uses GPT-aided JavaScript that assigns images in round-robin order across columns, giving me ontrol over which image appears in the first row etc.
 
 ### Optional: Hover Zoom Effect
 
-You can add a smooth zoom on hover to all images in your gallery by extending the CSS:
+You can add a smooth zoom on hover to all images in your gallery by extending the CSS like below. Increasing the number for scale() too high can quickly make the effect annoying:
 
 ```
 .masonry img {
